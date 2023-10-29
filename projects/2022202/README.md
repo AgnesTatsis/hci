@@ -14,7 +14,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Συζήτηση και εισαγωγή](https://github.com/courses-ionio/hci/discussions/1955) | Επιτυχής ολοκλήρωση του παραδοτέου εκτός προθεσμίας|
 | 2 | Άσκηση γραμμής εντολών (arch linux install) | [Συζήτηση και φωτογραφίες από την επίδειξη εντολών](https://github.com/courses-ionio/hci/discussions/1965),[ link για το βίντεο επίδειξης στο asciinema](https://asciinema.org/a/YUTpVCY790mWjSbsDavttSELP)|Επιτυχής ολοκλήρωση του παραδοτέου εvτός προθεσμίας |
 | 3 | Συμμετοχικό περιεχόμενο A1+A2 |[Pull_request_.md](https://github.com/Epikoinonites/_gallery/pull/1),[Pull_request_images](https://github.com/Epikoinonites/images/pull/1)| |
-| 4 | Άσκηση γραμμής εντολών (pandoc blog) | | |
+| 4 | Άσκηση γραμμής εντολών (pandoc blog) |[Συζήτηση]() | |
 | 5 | Κατασκευή του βιβλίου (pibook pdf) | | |
 | 6 | Συμμετοχικό περιεχόμενο B1 | | |
 | 7 | Άσκηση γραμμής εντολών (vim IDE) | | |
