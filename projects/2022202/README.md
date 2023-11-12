@@ -171,7 +171,7 @@ H εγκατάσταση της διανομής Arch Linux πραγματοπο
 
 Οι εντολές που εκτελέθηκαν για την άσκηση:
 - Εντολή curl wttr.in για το κειρικό δελτίο στην Ελλάδα.
-- Εντολή curl wttr.in/Canada για το κειρικό δελτίο στον Καναδά.
+- Εντολή curl wttr.in/Canada για το καιρικό δελτίο στον Καναδά.
 
 Σύγκριση Window Manager i3 με Linux Desktop Environments (LDE):
 
