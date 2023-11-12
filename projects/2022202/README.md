@@ -202,7 +202,7 @@ H εγκατάσταση της διανομής Arch Linux πραγματοπο
 - Για να προσαρμόσω την εμφάνιση της ιστοσελίδας, δημιούργησα ένα αρχείο .css για την μορφοποίηση της γραμμαροσειράς, της διάταξης και το μέγεθος της εικόνας που πρόσθεσα. Για την προσθήκη αυτών των αλλαγών εκτέλεσα την εντολή *pandoc -c style.css pandocblog.txt -s -o pandocblog.html*.
 - Πρόσθεσα ένα αρχείο footer.html για την προσθήκη δικαιομάτων στο τέλος της ιστοσελίδας και αποθήκευσα τις αλλαγές με την εντολή *pandoc -c style.css -A footer.html pandocblog.txt -s -o pandocblog.html*.
 
-Personal pandoc blog: file:///home/aninight/pandocblog.html
+Personal pandoc blog: /home/aninight/pandocblog.html
 
 Links:
 - Προσθήκη εικόνας σε pandoc blog: https://pandoc.org/chunkedhtml-demo/8.17-images.html
