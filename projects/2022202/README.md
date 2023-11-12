@@ -204,7 +204,7 @@ H εγκατάσταση της διανομής Arch Linux πραγματοπο
 
 Links:
 - Προσθήκη εικόνας σε pandoc blog: https://pandoc.org/chunkedhtml-demo/8.17-images.html
-- Resize image in from css file: https://www.browserstack.com/guide/how-to-resize-image-using-css
+- Resize image from css file: https://www.browserstack.com/guide/how-to-resize-image-using-css
 
 
 
