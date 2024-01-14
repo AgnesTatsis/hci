@@ -208,13 +208,7 @@ Links:
 - Προσθήκη εικόνας σε pandoc blog: https://pandoc.org/chunkedhtml-demo/8.17-images.html
 - Resize image from css file: https://www.browserstack.com/guide/how-to-resize-image-using-css
 
-
-
-
-
-
-
-
+![Screenshot (2372)](https://github.com/AgnesTatsis/hci/assets/147337057/ceb3ac8b-6cff-4f8e-a7c6-a8274df9fda2)
 
 
 
