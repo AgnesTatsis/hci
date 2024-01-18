@@ -175,6 +175,10 @@ Milton Bradley Microvision
 -
 Η πρώτη άσκηση που επέλεξα από τη λίστα "Warm up" σαν κύριο στόχο είχε την αλλαγή του ονόματος χρήστη στο command prompt, την εμφάνιση των dot αρχείων, την ανάδειξη του shell configuration file και τέλος την ανάδειξη του software και hardware του συστήματος. Η επιλογή της άσκησης έγινε με βάση το μάθημα των Λειτουργικών Συστημάτων που έχουμε παράλληλα στο οποίο εκτελούμε παρόμοιες εργασίες μέσω CL. Η διαφορά όμως του μαθήματος αυτού είναι ότι οι εντολές που εκτελούμε γίνονται μέσω virtual machine των Ubuntu Linux, κάτι το οποίο δεν μας προσφαίρει την ίδια εμπειρία προσωπικά με το γραφικό περιβάλλον i3.
 
+Προβολή βίντεο στο asciinema:[https://asciinema.org/a/klpXTXe3z1pRuKKWn5sEb6vCT](https://asciinema.org/a/klpXTXe3z1pRuKKWn5sEb6vCT)
+
+[Εκτέλεση εντολής warm up 2](https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg)
+[Pandoc blog repository](https://github.com/AgnesTatsis/pandoc_blog),[Pandoc blog showcase](file:///home/aninight/pandocblog.html)
 Παρακάτω παραθέτονται οι εντολές που εκτελέθηκαν για την άσκηση:
 - Εντολή PS1 για την αλλαγή του ονόματος χρήστη από "ani.night@archlinux" στον προσωπικό Α.Μ. "inf2022202".
 - Εντολή ls -a για την εμφάνιση των . και .. files.
@@ -190,8 +194,10 @@ Milton Bradley Microvision
 - Εντολή curl wttr.in για το κειρικό δελτίο στην Ελλάδα.
 - Εντολή curl wttr.in/Canada για το καιρικό δελτίο στον Καναδά.
 
-Σύγκριση Window Manager i3 με Linux Desktop Environments (LDE):
+Προβολή βίντεο στο asciinema:[https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg](https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg)
 
+Σύγκριση Window Manager i3 με Linux Desktop Environments (LDE):
+-
 Με την εκτέλεση των παραπάνω ασκήσεων σε Window Manager, σαν χρήστης που ξεκίνησε με την εγκατάσταση LDE, παρατήρησα τα εξής όσον αφορά τα διαφορετικά περιβάλλοντα:
 
       - Σε συγκριση με τις επιφάνειες εργασίας, ο i3 αποδείχτηκε πιό γρήγορος και αποδοτικός στην εκτέλεση εντολών.
