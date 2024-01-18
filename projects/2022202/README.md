@@ -177,9 +177,6 @@ Milton Bradley Microvision
 
 Προβολή βίντεο στο asciinema: [https://asciinema.org/a/klpXTXe3z1pRuKKWn5sEb6vCT](https://asciinema.org/a/klpXTXe3z1pRuKKWn5sEb6vCT)
 
-[Εκτέλεση εντολής warm up 2: ](https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg)
-
-
 Παρακάτω παραθέτονται οι εντολές που εκτελέθηκαν για την άσκηση:
 - Εντολή PS1 για την αλλαγή του ονόματος χρήστη από "ani.night@archlinux" στον προσωπικό Α.Μ. "inf2022202".
 - Εντολή ls -a για την εμφάνιση των . και .. files.
@@ -195,7 +192,7 @@ Milton Bradley Microvision
 - Εντολή curl wttr.in για το κειρικό δελτίο στην Ελλάδα.
 - Εντολή curl wttr.in/Canada για το καιρικό δελτίο στον Καναδά.
 
-Προβολή βίντεο στο asciinema:[https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg](https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg)
+Προβολή βίντεο στο asciinema: [https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg](https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg)
 
 Σύγκριση Window Manager i3 με Linux Desktop Environments (LDE):
 -
