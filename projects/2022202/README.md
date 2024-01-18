@@ -147,7 +147,7 @@ H εγκατάσταση της διανομής Arch Linux πραγματοπο
 
 Milton Bradley Microvision
 -
-![Milton-Bradley-Microvision-BlockBuster-Front](https://github.com/AgnesTatsis/hci/assets/147337057/96fa182d-6858-48a8-9475-d0a22bb10d59)
+![Milton-Bradley-Microvision-FR (1)](https://github.com/AgnesTatsis/hci/assets/147337057/85d52b36-e62c-4999-967b-dd853261cf4a)
 
 Κάρτα ήχου (Sound/audio card):
 -
