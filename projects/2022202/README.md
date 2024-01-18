@@ -178,7 +178,8 @@ Milton Bradley Microvision
 Προβολή βίντεο στο asciinema:[https://asciinema.org/a/klpXTXe3z1pRuKKWn5sEb6vCT](https://asciinema.org/a/klpXTXe3z1pRuKKWn5sEb6vCT)
 
 [Εκτέλεση εντολής warm up 2](https://asciinema.org/a/pdym0VDfH2gdk2a6oDd6XYBrg)
-[Pandoc blog repository](https://github.com/AgnesTatsis/pandoc_blog),[Pandoc blog showcase](file:///home/aninight/pandocblog.html)
+[Pandoc blog showcase](file:///home/aninight/pandocblog.html)
+
 Παρακάτω παραθέτονται οι εντολές που εκτελέθηκαν για την άσκηση:
 - Εντολή PS1 για την αλλαγή του ονόματος χρήστη από "ani.night@archlinux" στον προσωπικό Α.Μ. "inf2022202".
 - Εντολή ls -a για την εμφάνιση των . και .. files.
