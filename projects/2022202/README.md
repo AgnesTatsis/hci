@@ -164,9 +164,9 @@ Milton Bradley Microvision
 -
 Επειτα από τη σύνταξη των αρχείων κειμένου στα repositories _timeline και site και των εικόνων στα repositories images και _gallery εμφανίστηκαν προβήματα. Παρά την επιτυχημένη εμφάνισή τους μετά τα pull requsts στην ομάδα, στον προσωπική σελίδα του Netlify, είχαν εμφανιστεί μεν οι καινούριες κατηγορίες και τα timelines αλλά η εισαγωγή σε αυτά οδηγούσε μόνο σε "page corruption" ή "page not found" σφάλμα. Πραγματοποιήθηκαν αλλαγές στα αχεία, με manual ανάρτηση και αντικατάστασή τους από τον τερματικό των Arch Linux, δυστυχώς χωρίς κάποια επιτυχία.
 
-Προσωπική σελίδα στο Netlify: [https://inf2022202.netlify.app/](https://inf2022202.netlify.app/)
-Προσωπική σελίδα στο Netlify (Διαφάνιες): [https://inf2022202.netlify.app/slides](https://inf2022202.netlify.app/slides)
-Προσωπική σελίδα στο Netlify (Χρονολόγια): [https://inf2022202.netlify.app/timeline/](https://inf2022202.netlify.app/timeline/)
+- Προσωπική σελίδα στο Netlify: [https://inf2022202.netlify.app/](https://inf2022202.netlify.app/)
+- Προσωπική σελίδα στο Netlify (Διαφάνιες): [https://inf2022202.netlify.app/slides](https://inf2022202.netlify.app/slides)
+- Προσωπική σελίδα στο Netlify (Χρονολόγια): [https://inf2022202.netlify.app/timeline/](https://inf2022202.netlify.app/timeline/)
 
 
 # 4ο Παραδοτέο: Εκτέλεση ασκήσεων "Warm up" σε i3 γραφικό περιβάλλον και δημιουργεία ενός Pandoc blog
